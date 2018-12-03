@@ -1,0 +1,41 @@
+body {
+    font: 14px/20px "Montserrat";
+    font-size: 14px;
+}
+.container {
+width: 600px;
+padding: 100px;
+margin: auto;
+background: url(bgr.png) repeat;
+background-size: cover;
+}
+
+.title {
+padding: 10px;
+margin-bottom: 20px;
+font-size: 24px;
+text-align: right;
+font-weight: bold;
+letter-spacing: 3px;
+}
+
+.text {
+ color: violet;
+ letter-spacing: 3px;
+ text-align: justify;
+}
+.highlight {
+    font-weight: bold;
+    font-size: 22px;
+
+}
+
+.bordering {
+border: 1px solid black;
+padding: 7px;
+}
+
+.otstup {
+margin-top: 30px;
+}
+
